@@ -1,3 +1,26 @@
+<div align="center">
+  <img height="50" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/274737600009601024" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/zeronity31/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="center">Hey there!👋</h3><hr>
+
+###
+
+
+
 # 💫 About Me:
 Computer Science student at NIT Delhi, skilled in programming, machine learning, and full stack development. Experienced with MATLAB and B School Bulls internships. Developed innovative projects and excelled in competitive programming and hackathons, demonstrating strong problem-solving abilities.
 
