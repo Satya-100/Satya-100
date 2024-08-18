@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+
 <div align="center">
   <img height="50" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif"  />
 </div>
@@ -15,7 +18,7 @@
 
 ###
 
-<h3 align="center">Hi!, I'm Satya👋</h3><hr>
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Satya
 
 ###
 
