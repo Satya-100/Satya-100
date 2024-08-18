@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="center">Hey there!👋</h3><hr>
+#<h3 align="center">Hi!, I'm Satya👋</h3><hr>
 
 ###
 
